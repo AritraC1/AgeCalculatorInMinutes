@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DOBCalc" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Primary Band Color. -->
+         <item name="colorPrimary">@color/Heading</item>
+         <item name="colorPrimaryVariant">@color/Purple</item>
+         <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary Band Color. -->
+        <item name="colorSecondary">@color/Teal</item>
+        <item name="colorSecondaryVariant">@color/Purple</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar Color. -->
+    </style>
+
+    <style name="Theme.DOBCalc" parent="Base.Theme.DOBCalc" />
+</resources>

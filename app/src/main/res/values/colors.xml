@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textBlue">#264653</color>
+    <color name="bgColor">#fdd85d</color>
+    <color name="btnbg">#99d6ea</color>
+    <color name="textBg">#6798c0</color>
+    <color name="lightText">#F6F5F0</color>
+    <color name="Heading">#6798C0</color>
+    <color name="Purple">#6e44ff</color>
+    <color name="Teal">#00b4d8</color>
+</resources>
